@@ -1,0 +1,14 @@
+C:\netprojects\RealWorldSln\RealWorldSln\bin\Debug\net8.0\RealWorldSln.exe
+C:\netprojects\RealWorldSln\RealWorldSln\bin\Debug\net8.0\RealWorldSln.deps.json
+C:\netprojects\RealWorldSln\RealWorldSln\bin\Debug\net8.0\RealWorldSln.runtimeconfig.json
+C:\netprojects\RealWorldSln\RealWorldSln\bin\Debug\net8.0\RealWorldSln.dll
+C:\netprojects\RealWorldSln\RealWorldSln\bin\Debug\net8.0\RealWorldSln.pdb
+C:\netprojects\RealWorldSln\RealWorldSln\obj\Debug\net8.0\RealWorldSln.GeneratedMSBuildEditorConfig.editorconfig
+C:\netprojects\RealWorldSln\RealWorldSln\obj\Debug\net8.0\RealWorldSln.AssemblyInfoInputs.cache
+C:\netprojects\RealWorldSln\RealWorldSln\obj\Debug\net8.0\RealWorldSln.AssemblyInfo.cs
+C:\netprojects\RealWorldSln\RealWorldSln\obj\Debug\net8.0\RealWorldSln.csproj.CoreCompileInputs.cache
+C:\netprojects\RealWorldSln\RealWorldSln\obj\Debug\net8.0\RealWorldSln.dll
+C:\netprojects\RealWorldSln\RealWorldSln\obj\Debug\net8.0\refint\RealWorldSln.dll
+C:\netprojects\RealWorldSln\RealWorldSln\obj\Debug\net8.0\RealWorldSln.pdb
+C:\netprojects\RealWorldSln\RealWorldSln\obj\Debug\net8.0\RealWorldSln.genruntimeconfig.cache
+C:\netprojects\RealWorldSln\RealWorldSln\obj\Debug\net8.0\ref\RealWorldSln.dll
