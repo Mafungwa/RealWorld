@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RealWorldSln")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9589c56f71c711040b646074d8c22e81145ec8d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("RealWorldSln")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RealWorldSln")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

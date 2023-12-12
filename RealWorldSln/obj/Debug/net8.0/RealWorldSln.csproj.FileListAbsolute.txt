@@ -12,3 +12,4 @@ C:\netprojects\RealWorldSln\RealWorldSln\obj\Debug\net8.0\refint\RealWorldSln.dl
 C:\netprojects\RealWorldSln\RealWorldSln\obj\Debug\net8.0\RealWorldSln.pdb
 C:\netprojects\RealWorldSln\RealWorldSln\obj\Debug\net8.0\RealWorldSln.genruntimeconfig.cache
 C:\netprojects\RealWorldSln\RealWorldSln\obj\Debug\net8.0\ref\RealWorldSln.dll
+C:\netprojects\RealWorldSln\RealWorldSln\obj\Debug\net8.0\RealWorldSln.sourcelink.json

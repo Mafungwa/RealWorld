@@ -40,5 +40,32 @@ namespace RealWorldSln
         {
             return true;
         }
+
+        public string GetName()
+        {
+            return Name;
+        }
+        public int GetAge() 
+        { 
+            return Age;
+        }
+        public string GetRace() 
+        { 
+            return Race;
+        }
+        public double GetHeight() 
+        { 
+            return Height;
+        }
+       public bool GetHaveMatric()
+        {
+            return HaveMatric;
+        }
+        public bool GetEmployeed()
+        {
+            return Employeed;
+        }
+
+
     }
 }

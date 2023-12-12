@@ -3,29 +3,20 @@
     internal class Program
     {
         static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
+        {           
             
 
-        Person person1 = new Person("Pule", 30, "Black", 1.8, false, true);
+        Person person1 = new Person("Pule", 30, "Black", 1.8, false, true);      
 
-            person1.Speak("IsiXosha");
-            person1.Run("100m");
-            person1.Medication(true);
-
-            Console.WriteLine("Personal Information: " + person1.Name);
-            Console.WriteLine("Personal Information: " + person1.Age);
-            Console.WriteLine("Personal Information: " + person1.Race);
-            Console.WriteLine("Personal Information: " + person1.Height);
-            Console.WriteLine("Personal Information: " + person1.Employeed);
-            Console.WriteLine("Personal Information: " + person1.HaveMatric);
-            Console.WriteLine("Personal Information: " + person1.Speak);
-            Console.WriteLine("Personal Information: " + person1.Run);
-            Console.WriteLine("Personal Information: " + person1.Medication);
-
-
-
-
+            Console.WriteLine("Personal Information: Name > " + person1.GetName());
+            Console.WriteLine("Personal Information: Age > " + person1.GetAge());
+            Console.WriteLine("Personal Information: Race > " + person1.GetRace());
+            Console.WriteLine("Personal Information: Height > " + person1.GetHeight());
+            Console.WriteLine("Personal Information: Employeed > " + person1.GetEmployeed());
+            Console.WriteLine("Personal Information: Do you have matric > " + person1.GetHaveMatric());
+            Console.WriteLine("Personal Information: Language > " + person1.Speak("IsiXhosa"));
+            Console.WriteLine("Personal Information: Run/Relay > " + person1.Run("100m"));
+            Console.WriteLine("Personal Information: Medication > " + person1.Medication(true));
 
         }
     }
